@@ -352,13 +352,13 @@ const DashboardPage = ({ onSubmit }) => {
                   className="text-black-900 text-lg tracking-[0.18px]"
                   size="txtOutfitSemiBold18"
                 >
-                  CrowdFund
+                 FundStream
                 </Text>
                 <Text
                   className="text-gray-500 text-sm tracking-[0.14px]"
                   size="txtOutfitRegular14"
                 >
-                  @CrowdFund
+                 @FundStream
                 </Text>
               </div>
             </div>
